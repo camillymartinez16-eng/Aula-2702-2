@@ -11,4 +11,5 @@ e segurança específicos para cada ambiente, incluindo
 o uso de roupas adequadas, equipamentos de
 segurança e acessórios conforme a atividade e as
 normas regulamentadoras de cada área.
+
 <img src="SENAI.jpg" alt="Senai" width="500" height="600">
